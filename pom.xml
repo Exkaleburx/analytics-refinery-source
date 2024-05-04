@@ -260,7 +260,7 @@
       <dependency>
         <groupId>io.circe</groupId>
         <artifactId>circe-core_2.12</artifactId>
-        <version>0.13.0</version>
+        <version>0.14.6</version>
       </dependency>
 
       <dependency>
@@ -687,7 +687,7 @@
         <configuration>
           <source>${java.version}</source>
           <target>${java.version}</target>
-          <compilerArgument />
+          <compilerArgument/>
         </configuration>
       </plugin>
 
